@@ -1,5 +1,5 @@
 {
-  profile :{
+  "profile" :{
     "memberId": "1920000001",
     "displayName": "Test User",
     "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/iqonicd/128.jpg",
