@@ -1,0 +1,24 @@
+{
+  profile :{
+    "memberId": "1920000001",
+    "displayName": "Test User",
+    "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/iqonicd/128.jpg",
+    "expiryDate": "2020-12-31T04:59:59Z",
+    "pointValue": 636,
+    "pointConversionRate": 1,
+    "tier": {
+      "name": "GREEN",
+      "minPointValue": 0,
+      "maxPointValue": 9999,
+      "nextName": null,
+      "content": {
+        "cardImage": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/membership_card_green.png",
+        "cardIcon": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/ic_card_green.png",
+        "themeColors": [
+          "0x00D431",
+          "0x2DB34C"
+        ]
+      }
+    }
+  }
+}
