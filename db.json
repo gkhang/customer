@@ -84,5 +84,41 @@
       }
     ]
   }
-]
+],
+  "transactions": {
+  "currentPointValue": 703,
+  "histories": [
+    {
+      "transactionId": "5e8740ee5e02be3f3ca4de1d",
+      "name": "history.point_earning",
+      "eventDate": "2020-04-03T13:58:06+0000",
+      "type": "credit",
+      "changePoints": [
+        {
+          "name": "history.campaign_food_hunt_bonus_desc",
+          "value": 200,
+          "type": "bonus"
+        }
+      ]
+    },
+    {
+      "transactionId": "5e87400c5e02be3f3ca4de19",
+      "name": "history.point_earning",
+      "eventDate": "2020-04-03T13:54:20+0000",
+      "type": "credit",
+      "changePoints": [
+        {
+          "name": "history.regular_bonus_desc",
+          "value": 336,
+          "type": "base"
+        },
+        {
+          "name": "history.campaign_food_hunt_bonus_desc",
+          "value": 167,
+          "type": "bonus"
+        }
+      ]
+    }
+  ]
+}
 }
