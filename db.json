@@ -21,4 +21,20 @@
       }
     }
   }
+  "exclusive-rewards": [
+    {
+      "rewardId": "Reward_1",
+      "brand": "Maui Moisture",
+      "points": 1000,
+      "shortDescription": "VIP member can enjoy 50% off in selected shops in the first 10 days",
+      "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/reward_1.png"
+    },
+    {
+      "rewardId": "Reward_2",
+      "brand": "Shiseido",
+      "points": 500,
+      "shortDescription": "New member can enjoy 20% off in selected shops in the first 30 days",
+      "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/reward_2.png"
+    }
+  ]
 }
