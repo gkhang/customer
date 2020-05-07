@@ -20,7 +20,7 @@
         ]
       }
     }
-  }
+  },
   "exclusive-rewards":[
     {
       "rewardId": "Reward_1",
@@ -36,5 +36,53 @@
       "shortDescription": "New member can enjoy 20% off in selected shops in the first 30 days",
       "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/reward_2.png"
     }
-  ]
+  ],
+  "tier-settings": [
+  {
+    "name": "GREEN",
+    "minPointValue": 0,
+    "maxPointValue": 9999,
+    "nextName": null,
+    "content": {
+      "cardImage": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/membership_card_green.png",
+      "cardIcon": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/ic_card_green.png",
+      "themeColors": [
+        "0x00D431",
+        "0x2DB34C"
+      ]
+    },
+    "benefits": [
+      {
+        "name": "account.membership_level_2x_points_birthday",
+        "enabled": true,
+        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_gift.png"
+      },
+      {
+        "name": "account.membership_level_exclusive_sale",
+        "enabled": true,
+        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_sale.png"
+      },
+      {
+        "name": "account.membership_level_5%_member_discount",
+        "enabled": true,
+        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_discount.png"
+      },
+      {
+        "name": "account.membership_level_free_shipping",
+        "enabled": true,
+        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_shipping.png"
+      },
+      {
+        "name": "account.membership_level_early_access",
+        "enabled": true,
+        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_early_access.png"
+      },
+      {
+        "name": "account.membership_level_premium_member_sales",
+        "enabled": true,
+        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_premium.png"
+      }
+    ]
+  }
+]
 }
