@@ -42,7 +42,7 @@
     "name": "GREEN",
     "minPointValue": 0,
     "maxPointValue": 9999,
-    "nextName": null,
+    "nextTierName": "SILVER",
     "content": {
       "cardImage": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/membership_card_green.png",
       "cardIcon": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/ic_card_green.png",
