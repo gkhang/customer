@@ -2,7 +2,7 @@
   "profile" :{
     "memberId": "1920000001",
     "displayName": "Test User",
-    "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/iqonicd/128.jpg",
+    "profilePic": "128.jpg",
     "expiryDate": "2020-12-31T04:59:59Z",
     "pointValue": 636,
     "pointConversionRate": 1,
@@ -12,8 +12,8 @@
       "maxPointValue": 9999,
       "nextTierName": "SILVER",
       "content": {
-        "cardImage": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/membership_card_green.png",
-        "cardIcon": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/ic_card_green.png",
+        "cardImage": "membership_card_green.png",
+        "cardIcon": "ic_card_green.png",
         "themeColors": [
           "0x00D431",
           "0x2DB34C"
@@ -27,14 +27,14 @@
       "brand": "Maui Moisture",
       "points": 1000,
       "shortDescription": "VIP member can enjoy 50% off in selected shops in the first 10 days",
-      "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/reward_1.png"
+      "thumbnailUrl": "reward_1.png"
     },
     {
       "rewardId": "Reward_2",
       "brand": "Shiseido",
       "points": 500,
       "shortDescription": "New member can enjoy 20% off in selected shops in the first 30 days",
-      "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/reward_2.png"
+      "thumbnailUrl": "reward_2.png"
     }
   ],
   "tier-settings": [
@@ -44,8 +44,8 @@
     "maxPointValue": 9999,
     "nextTierName": "SILVER",
     "content": {
-      "cardImage": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/membership_card_green.png",
-      "cardIcon": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/ic_card_green.png",
+      "cardImage": "membership_card_green.png",
+      "cardIcon": "ic_card_green.png",
       "themeColors": [
         "0x00D431",
         "0x2DB34C"
@@ -55,32 +55,32 @@
       {
         "name": "account.membership_level_2x_points_birthday",
         "enabled": true,
-        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_gift.png"
+        "image": "benefit_gift.png"
       },
       {
         "name": "account.membership_level_exclusive_sale",
         "enabled": true,
-        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_sale.png"
+        "image": "benefit_sale.png"
       },
       {
         "name": "account.membership_level_5%_member_discount",
         "enabled": true,
-        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_discount.png"
+        "image": "benefit_discount.png"
       },
       {
         "name": "account.membership_level_free_shipping",
         "enabled": true,
-        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_shipping.png"
+        "image": "benefit_shipping.png"
       },
       {
         "name": "account.membership_level_early_access",
         "enabled": true,
-        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_early_access.png"
+        "image": "benefit_early_access.png"
       },
       {
         "name": "account.membership_level_premium_member_sales",
         "enabled": true,
-        "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_premium.png"
+        "image": "benefit_premium.png"
       }
     ]
   }
